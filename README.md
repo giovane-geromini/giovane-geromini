@@ -73,10 +73,6 @@ Site pessoal para apresentar minha trajetória, projetos, estudos e evolução n
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovane-geromini&theme=default" alt="Repositórios por linguagem" />
 </p>
 
-<p align="left">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovane-geromini&theme=default" alt="Linguagens mais usadas em commits" />
-</p>
-
 ---
 
 ## 📫 Onde me encontrar
