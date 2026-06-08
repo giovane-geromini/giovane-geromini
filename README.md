@@ -69,15 +69,12 @@ Site pessoal para apresentar minha trajetória, projetos, estudos e evolução n
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovane-geromini&theme=default" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovane-geromini&theme=default" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovane-geromini&theme=default" alt="Repositórios por linguagem" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovane-geromini&theme=default" alt="Repositórios por linguagem" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovane-geromini&theme=default" alt="Linguagens mais usadas em commits" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovane-geromini&theme=default" alt="Linguagens mais usadas em commits" />
 </p>
 
 ---
