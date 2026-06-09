@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Giovane Geromini
 
-Sou Analista de Logística e Dados em transição para Desenvolvimento Full Stack, com foco em criar aplicações reais, organizadas e úteis para resolver problemas do dia a dia.
+Sou Analista de Logística e Dados em transição para Desenvolvimento Full Stack, com foco em criar aplicações web, automações e produtos digitais que transformam regras de negócio em soluções simples, organizadas e úteis.
 
 Tenho experiência com processos logísticos, indicadores, Excel avançado, análise de dados e regras de negócio. Atualmente venho direcionando essa bagagem para o desenvolvimento de soluções web usando Next.js, TypeScript, Supabase e SQL.
 
@@ -13,7 +13,7 @@ Tenho experiência com processos logísticos, indicadores, Excel avançado, aná
 - 🌱 Atualmente desenvolvendo projetos próprios com Next.js, TypeScript, React e Supabase.
 - 📊 Interesse em automação, dashboards, análise de dados e melhoria de processos.
 - 🧠 Gosto de transformar regras de negócio em soluções simples, visuais e funcionais.
-- 🎯 Objetivo: atuar em tecnologia criando produtos, sistemas e automações com impacto real.
+- 🎯 Objetivo: atuar em tecnologia criando produtos, sistemas internos, automações e soluções orientadas a dados, com foco em autonomia, clareza e impacto real.
 
 ---
 
